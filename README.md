@@ -2,6 +2,10 @@
 
 A modern theme for the OpenStack dashboard inspired by [Beastie](https://en.wikipedia.org/wiki/BSD_Daemon).
 
+![Instance list in light and dark themes](img/instance_list_side_by_side.png)
+
+More screenshots in the [img](img/) folder.
+
 ## Features
 
 - light and dark variants
