@@ -274,3 +274,13 @@
     margin-left: auto;
   }
 }
+
+.popover-content > .table {
+  > tbody > tr > th {
+    white-space: nowrap;
+  }
+
+  > tbody > tr > td {
+    overflow-wrap: anywhere;
+  }
+}

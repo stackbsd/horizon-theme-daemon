@@ -80,6 +80,14 @@ $dropdown-link-active-bg: dm("color-bg-surface-selected");
 $dropdown-header-color: dm("color-text-secondary");
 $dropdown-divider-bg: dm("color-border-subtle");
 
+$popover-bg: dm("color-bg-surface");
+$popover-border-color: dm("color-border-subtle");
+$popover-fallback-border-color: dm("color-border-subtle");
+$popover-title-bg: dm("color-bg-surface-secondary");
+$popover-max-width: 440px;
+$popover-arrow-outer-color: dm("color-border");
+$popover-arrow-outer-fallback-color: dm("color-border");
+
 $state-success-text: dm("color-text-success");
 $state-success-bg: dm("color-bg-success");
 $state-success-border: if($dm-dark, dm-palette("green-800"), dm-palette("green-200"));
